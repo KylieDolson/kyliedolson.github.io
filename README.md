@@ -12,8 +12,8 @@ I'm Kylie Dolson, a detail-oriented digital professional with a background in we
 
 - HTML5
 - CSS3
-- JavaScript (coming soon!)
-- -Python (coming soon!)
+- JavaScript
+- Python (coming soon!)
 - WordPress
 - Git & GitHub
 - Notion (for documentation and planning)
@@ -22,6 +22,7 @@ I'm Kylie Dolson, a detail-oriented digital professional with a background in we
 
 - `index.html` – Main landing page for the portfolio
 - `style.css` – Stylesheet for layout and design
+- `script.js` - For website functionality (ex: light and dark mode)
 - `README.md` – This file
 - More files and updates coming soon!
 
@@ -41,7 +42,7 @@ Feel free to connect with me through:
 
 - 📧 Email: kyliedolson8990@gmail.com
 - 🌐 [Notion Portfolio](https://www.notion.so/Kylie-Dolson-16e6d8e3e65980da9664f35ce9c9ae85)
-- 💼 [LinkedIn (if applicable)]([[https://www.linkedin.com](https://www.linkedin.com/in/kylie-dolson/)](https://www.linkedin.com/in/kylie-dolson/?originalSubdomain=ca))
+- 💼 [LinkedIn](https://www.linkedin.com/in/kylie-dolson/?originalSubdomain=ca)
 
 ---
 
